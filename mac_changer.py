@@ -1,5 +1,4 @@
 import subprocess
-import subprocess
 import optparse
 def get_arguments():
     parser = optparse.OptionParser()
